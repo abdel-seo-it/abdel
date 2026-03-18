@@ -19,6 +19,6 @@ Freelance IT & SEO focused on technical SEO, website optimization, web support, 
 HTML, CSS, JavaScript, Python, WordPress, SEO tools, Git, GitHub
 
 ## Contact
-- Website: yoursite.com
-- LinkedIn: your-linkedin
-- Email: your professional email
+
+- LinkedIn: https://www.linkedin.com/in/abderahim-rabie-0b82803b8/
+- Email: abderahimrabie90@gmail.com
